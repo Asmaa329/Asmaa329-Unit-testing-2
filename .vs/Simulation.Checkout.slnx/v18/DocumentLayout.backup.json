@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E41766-19E2-E5DD-9CF3-E665874817C6}|tests\\Simulation.Checkout.Tests\\Simulation.Checkout.Tests.csproj|c:\\simulation\\unit test\\asmaa329-unit-testing-2\\tests\\simulation.checkout.tests\\receiptsnapshottests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E41766-19E2-E5DD-9CF3-E665874817C6}|tests\\Simulation.Checkout.Tests\\Simulation.Checkout.Tests.csproj|solutionrelative:tests\\simulation.checkout.tests\\receiptsnapshottests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7CCC49-6146-B804-C8CD-9E8B11AE4CF9}|src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj|c:\\simulation\\unit test\\asmaa329-unit-testing-2\\src\\simulation.checkout.application\\simulation.checkout.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C7CCC49-6146-B804-C8CD-9E8B11AE4CF9}|src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj|solutionrelative:src\\simulation.checkout.application\\simulation.checkout.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7CCC49-6146-B804-C8CD-9E8B11AE4CF9}|src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj|c:\\simulation\\unit test\\asmaa329-unit-testing-2\\src\\simulation.checkout.application\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7CCC49-6146-B804-C8CD-9E8B11AE4CF9}|src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj|solutionrelative:src\\simulation.checkout.application\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E41766-19E2-E5DD-9CF3-E665874817C6}|tests\\Simulation.Checkout.Tests\\Simulation.Checkout.Tests.csproj|c:\\simulation\\unit test\\asmaa329-unit-testing-2\\tests\\simulation.checkout.tests\\checkoutservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E41766-19E2-E5DD-9CF3-E665874817C6}|tests\\Simulation.Checkout.Tests\\Simulation.Checkout.Tests.csproj|solutionrelative:tests\\simulation.checkout.tests\\checkoutservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E41766-19E2-E5DD-9CF3-E665874817C6}|tests\\Simulation.Checkout.Tests\\Simulation.Checkout.Tests.csproj|c:\\simulation\\unit test\\asmaa329-unit-testing-2\\tests\\simulation.checkout.tests\\architecturetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E41766-19E2-E5DD-9CF3-E665874817C6}|tests\\Simulation.Checkout.Tests\\Simulation.Checkout.Tests.csproj|solutionrelative:tests\\simulation.checkout.tests\\architecturetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7CCC49-6146-B804-C8CD-9E8B11AE4CF9}|src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj|c:\\simulation\\unit test\\asmaa329-unit-testing-2\\src\\simulation.checkout.application\\abstractions\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7CCC49-6146-B804-C8CD-9E8B11AE4CF9}|src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj|solutionrelative:src\\simulation.checkout.application\\abstractions\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713B7A4D-976F-6FA7-01EE-532B432915B4}|src\\Simulation.Checkout.Infrastructure\\Simulation.Checkout.Infrastructure.csproj|c:\\simulation\\unit test\\asmaa329-unit-testing-2\\src\\simulation.checkout.infrastructure\\inmemoryorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713B7A4D-976F-6FA7-01EE-532B432915B4}|src\\Simulation.Checkout.Infrastructure\\Simulation.Checkout.Infrastructure.csproj|solutionrelative:src\\simulation.checkout.infrastructure\\inmemoryorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7CCC49-6146-B804-C8CD-9E8B11AE4CF9}|src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj|c:\\simulation\\unit test\\asmaa329-unit-testing-2\\src\\simulation.checkout.application\\abstractions\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7CCC49-6146-B804-C8CD-9E8B11AE4CF9}|src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj|solutionrelative:src\\simulation.checkout.application\\abstractions\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7CCC49-6146-B804-C8CD-9E8B11AE4CF9}|src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj|c:\\simulation\\unit test\\asmaa329-unit-testing-2\\src\\simulation.checkout.application\\abstractions\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7CCC49-6146-B804-C8CD-9E8B11AE4CF9}|src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj|solutionrelative:src\\simulation.checkout.application\\abstractions\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulation.Checkout.Application",
+              "DocumentMoniker": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj",
+              "ToolTip": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj",
+              "RelativeToolTip": "src\\Simulation.Checkout.Application\\Simulation.Checkout.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T22:55:37.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\src\\Simulation.Checkout.Application\\Abstractions\\INotificationService.cs",
+              "RelativeDocumentMoniker": "src\\Simulation.Checkout.Application\\Abstractions\\INotificationService.cs",
+              "ToolTip": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\src\\Simulation.Checkout.Application\\Abstractions\\INotificationService.cs",
+              "RelativeToolTip": "src\\Simulation.Checkout.Application\\Abstractions\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T22:10:02.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutService.cs",
+              "DocumentMoniker": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\src\\Simulation.Checkout.Application\\CheckoutService.cs",
+              "RelativeDocumentMoniker": "src\\Simulation.Checkout.Application\\CheckoutService.cs",
+              "ToolTip": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\src\\Simulation.Checkout.Application\\CheckoutService.cs",
+              "RelativeToolTip": "src\\Simulation.Checkout.Application\\CheckoutService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T22:05:52.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArchitectureTests.cs",
+              "DocumentMoniker": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\tests\\Simulation.Checkout.Tests\\ArchitectureTests.cs",
+              "RelativeDocumentMoniker": "tests\\Simulation.Checkout.Tests\\ArchitectureTests.cs",
+              "ToolTip": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\tests\\Simulation.Checkout.Tests\\ArchitectureTests.cs",
+              "RelativeToolTip": "tests\\Simulation.Checkout.Tests\\ArchitectureTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:33:16.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReceiptSnapshotTests.cs",
+              "DocumentMoniker": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\tests\\Simulation.Checkout.Tests\\ReceiptSnapshotTests.cs",
+              "RelativeDocumentMoniker": "tests\\Simulation.Checkout.Tests\\ReceiptSnapshotTests.cs",
+              "ToolTip": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\tests\\Simulation.Checkout.Tests\\ReceiptSnapshotTests.cs",
+              "RelativeToolTip": "tests\\Simulation.Checkout.Tests\\ReceiptSnapshotTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:36:28.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutServiceTests.cs",
+              "DocumentMoniker": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\tests\\Simulation.Checkout.Tests\\CheckoutServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\Simulation.Checkout.Tests\\CheckoutServiceTests.cs",
+              "ToolTip": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\tests\\Simulation.Checkout.Tests\\CheckoutServiceTests.cs",
+              "RelativeToolTip": "tests\\Simulation.Checkout.Tests\\CheckoutServiceTests.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:36:12.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryOrderRepository.cs",
+              "DocumentMoniker": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\src\\Simulation.Checkout.Infrastructure\\InMemoryOrderRepository.cs",
+              "RelativeDocumentMoniker": "src\\Simulation.Checkout.Infrastructure\\InMemoryOrderRepository.cs",
+              "ToolTip": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\src\\Simulation.Checkout.Infrastructure\\InMemoryOrderRepository.cs",
+              "RelativeToolTip": "src\\Simulation.Checkout.Infrastructure\\InMemoryOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T20:34:16.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\src\\Simulation.Checkout.Application\\Abstractions\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "src\\Simulation.Checkout.Application\\Abstractions\\IOrderRepository.cs",
+              "ToolTip": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\src\\Simulation.Checkout.Application\\Abstractions\\IOrderRepository.cs",
+              "RelativeToolTip": "src\\Simulation.Checkout.Application\\Abstractions\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T22:10:24.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInventoryService.cs",
+              "DocumentMoniker": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\src\\Simulation.Checkout.Application\\Abstractions\\IInventoryService.cs",
+              "RelativeDocumentMoniker": "src\\Simulation.Checkout.Application\\Abstractions\\IInventoryService.cs",
+              "ToolTip": "C:\\simulation\\Unit Test\\Asmaa329-Unit-testing-2\\src\\Simulation.Checkout.Application\\Abstractions\\IInventoryService.cs",
+              "RelativeToolTip": "src\\Simulation.Checkout.Application\\Abstractions\\IInventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T22:08:28.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[Bb]in
+[Oo]bj
+.[Ll]og
+.[Ss]qlmdf
+.vs
+.vscode
+.suo
+.user
+.userosscache
+.sln.docstates
+TestResults
+.cobertura.xml
+.trx
+.DS_Store
+Thumbs.db
